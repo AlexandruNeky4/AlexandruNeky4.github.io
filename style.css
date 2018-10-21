@@ -38,6 +38,7 @@ header.startup h1{
  .container h1{ 
    margin: 0; 
    position: absolute; 
+   top: 70%
    left: 50%; 
    margin-right: -50%;  
    transform: translate(-50%, -50%);
@@ -54,7 +55,7 @@ header.startup h1{
    .button{ 
         margin: 0; 
    position: absolute; 
-   top: 90%; 
+   top: 80%; 
    left: 50%; 
    margin-right: -50%;  
    transform: translate(-50%, -50%); 
@@ -62,7 +63,7 @@ header.startup h1{
    flex-wrap: wrap; 
    max-width: 200px; 
    max-height: 100px; 
-   margin-top: 200px; 
+   margin-top: 150px; 
     }
  .btn{ 
    text-transform: uppercase; 
